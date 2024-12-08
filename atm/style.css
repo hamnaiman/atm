@@ -1,0 +1,33 @@
+body {
+    font-family: arial;
+
+}
+
+.atm-container {
+    width: 80%;
+    margin: 40px auto;
+    padding: 20px;
+    border: 1px soilid #ccc;
+    border-radius: 10px;
+    box-shadow: 0 0 10px gray;
+}
+
+#login-form {
+    margin-bottom: 20px;
+}
+
+#transcition-coontainer {
+    margin-top: 20px;
+}
+
+button {
+    padding: 10px 20px;
+    border: 10px 20px black;
+    border-radius: 5px;
+    background-color: aliceblue;
+    color: black;
+    cursor: pointer;
+}
+button:hover{
+    background-color: azure;
+}
